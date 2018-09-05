@@ -40,7 +40,7 @@ __Bonus__:
 2. Create Buttons to change the font size of the TextView
 
 ## Deadline for submission
-Deadline: Exact date TBD
+Deadline: Tuesday, 18 September 2018, 23h59
 
 Lateness policy applies. Issues with configuring the IDE or the project can lead to an exceptional
 extension without penalty.
