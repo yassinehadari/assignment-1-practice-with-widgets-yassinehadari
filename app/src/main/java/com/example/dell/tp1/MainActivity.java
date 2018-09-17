@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         textV = (TextView) findViewById(R.id.textView);
         bouton = (Button) findViewById(R.id.button);
 
-        //When button is clicked
         bouton.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
