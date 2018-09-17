@@ -1,4 +1,4 @@
-package fr.isep.ii3510.assignment1practicewithwidgets;
+package com.example.dell.tp1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("fr.isep.ii3510.assignment1practicewithwidgets", appContext.getPackageName());
+        assertEquals("com.example.dell.tp1", appContext.getPackageName());
     }
 }

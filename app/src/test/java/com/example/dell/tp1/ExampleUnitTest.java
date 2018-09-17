@@ -1,4 +1,4 @@
-package fr.isep.ii3510.assignment1practicewithwidgets;
+package com.example.dell.tp1;
 
 import org.junit.Test;
 
